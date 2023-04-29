@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+    filter: invert(1);
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+ul {
+    list-style-type: none;
+    display:flex;
+    margin-left:auto;
+    margin-right: 32px;
+    gap: 32px;
+    align-items: center;
+}
+
+.about{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    display:flex; 
+    padding: 32px;
+}
+
+.bio{
+    
+}
+
+.bio-text{
+    font-size: small;
+}
+
